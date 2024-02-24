@@ -4,6 +4,9 @@ Welcome to the thrilling world of our text-based Tower Defense game! Prepare for
 
 This project was developed by David Carvalho (up202208654@fe.up.pt), Diogo Vieira (up202208723@fe.up.pt) and Tiago Pinto (up202206280@fe.up.pt) for LPOO 2023/24.
 
+### FINAL GRADE
+
+17,6/20
 
 ### IMPLEMENTED FEATURES
 
